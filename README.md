@@ -12,7 +12,7 @@
 <ul>
   <li>Email: frhydan@gmail.com</li>
   <li><a href="https://www.linkedin.com/in/felipe-rhydan-96b513318/" target="_blank">LinkedIn</a></li>
-  <li><a href="https://www.instagram.com/feliperhydan" target="_blank">Instagram</a></li>
+  <li><a href="https://www.instagram.com/feliperhydan/" target="_blank">Instagram</a></li>
 </ul>
 
 <h2>🛠️ Tecnologias em aprendizado</h2>
