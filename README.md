@@ -1,11 +1,11 @@
 <h1 align="left">Olá 👋</h1>
 
-<img src="https://tenor.com/nOT4FCBe4TC.gif" alt="gato tec tec tec" width="300">
+<img src="https://raw.githubusercontent.com/feliperhydan/feliperhydan/main/gato.gif" alt="gato tec tec tec" width="400">
 
 <p align="left">
-  🚀 Iniciando minha jornada no mundo da programação<br>
+  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, sou apaixonado pela computação desde criança e recentemente iniciei meus estudos na Uniesp.<br>
+  
   📚 Atualmente no 1º semestre de Ciência da Computação<br>
-  💻 Estudando Lógica de Programação, Python, Github, HTML e CSS<br>
 </p>
 
 <h2>📫 Contato</h2>
@@ -30,6 +30,7 @@
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=feliperhydan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
