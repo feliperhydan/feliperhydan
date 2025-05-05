@@ -1,6 +1,8 @@
-<h1 align="center">Olá, sou um estudante de Ciência da Computação 👋</h1>
+<h1 align="left">Olá 👋</h1>
 
-<p align="center">
+<img src="https://tenor.com/nOT4FCBe4TC.gif" alt="gato tec tec tec" width="300">
+
+<p align="left">
   🚀 Iniciando minha jornada no mundo da programação<br>
   📚 Atualmente no 1º semestre de Ciência da Computação<br>
   💻 Estudando Lógica de Programação, Python, Github, HTML e CSS<br>
