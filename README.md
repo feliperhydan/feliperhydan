@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou um estudante de Ciência da Computação 👋</h1>
+<h1 align="center">Olá, meu nome é Felipe e eu sou um estudante de Ciência da Computação 👋</h1>
 
 <p align="center">
   🚀 Iniciando minha jornada no mundo da programação<br>
