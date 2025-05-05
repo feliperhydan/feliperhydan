@@ -23,6 +23,13 @@
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+<div>
+<a href="https://github.com/feliperhydan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperhydan&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperhydan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ---
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
