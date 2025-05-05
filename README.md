@@ -3,14 +3,14 @@
 <p align="center">
   🚀 Iniciando minha jornada no mundo da programação<br>
   📚 Atualmente no 1º semestre de Ciência da Computação<br>
-  💻 Estudando lógica de programação, Python e Git<br>
+  💻 Estudando Lógica de Programação, Python, Github, HTML e CSS<br>
 </p>
 
 <h2>📫 Contato</h2>
 
 <ul>
-  <li>Email: seuemail@example.com</li>
-  <li><a href="https://www.linkedin.com/in/seulinkedin" target="_blank">LinkedIn</a></li>
+  <li>Email: frhydan@gmail.com</li>
+  <li><a href="https://www.linkedin.com/in/felipe-rhydan-96b513318/" target="_blank">LinkedIn</a></li>
   <li><a href="https://github.com/seuusuario" target="_blank">GitHub</a></li>
 </ul>
 
