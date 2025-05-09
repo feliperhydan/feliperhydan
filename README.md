@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #2d9cdb;">Olá 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 <p align="center">
   <img src="gato.gif" alt="gato" />
