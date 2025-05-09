@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋</h1>
 
-<img src="gato.gif" alt="gato tec tec tec" width="400">
+![](gato.gif)
 
 <p align="left">
   👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, iniciei meus estudos de comnputação em 2023 na UFRN - BTI e estou atualmente na Uniesp.<br>
