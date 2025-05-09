@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/feliperhydan/feliperhydan/main/gato.gif" alt="gato tec tec tec" width="400">
 
 <p align="left">
-  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, sou apaixonado pela computação desde criança e recentemente iniciei meus estudos na Uniesp.<br>
+  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, iniciei meus estudos de comnputação em 2023 na UFRN - BTI e estou atualmente na Uniesp.<br>
   
   📚 Atualmente no 1º semestre de Ciência da Computação<br>
 </p>
