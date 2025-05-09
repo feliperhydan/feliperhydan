@@ -30,7 +30,7 @@
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=feliperhydan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/feliperhydan/feliperhydan/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/feliperhydan/feliperhydan/blob/output/github-snake.svg)
 
 ---
 
