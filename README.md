@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
-  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, iniciei meus estudos de comnputação em 2023 na UFRN - BTI e estou atualmente na Uniesp.<br>
+  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, iniciei meus estudos na área em 2023 na UFRN - BTI e estou agora na Uniesp-PB.<br>
   
-  📚 Atualmente no 1º semestre de Ciência da Computação<br>
+  📚 Atualmente no 3º semestre de Ciência da Computação<br>
 </p>
 
 <h2 align="center">📫 Contato</h2>
@@ -28,14 +28,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 </p>
 
-<div align="center">
-<a href="https://github.com/feliperhydan">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperhydan&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=feliperhydan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-![snake gif](https://github.com/feliperhydan/feliperhydan/blob/output/github-snake.svg)
-
----
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
