@@ -18,12 +18,15 @@
 <a href="https://www.linkedin.com/in/felipe-rhydan-96b513318/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h2 align="center">🛠️ Tecnologias em aprendizado</h2>
+<h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+  
 </p>
 
 <div align="center">
