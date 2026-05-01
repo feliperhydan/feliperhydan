@@ -3,13 +3,6 @@
 <p align="center">
   <img src="gato.gif" alt="gato" />
 </p>
-
-<p align="left">
-  👨‍💻 Meu nome é Felipe! Moro em João Pessoa - PB, iniciei meus estudos na área em 2023 na UFRN - BTI e estou agora na Uniesp-PB.<br>
-  
-  📚 Atualmente no 3º semestre de Ciência da Computação<br>
-</p>
-
 <h2 align="center">📫 Contato</h2>
 
 <div align="center">
