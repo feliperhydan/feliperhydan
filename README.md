@@ -1,5 +1,3 @@
-<h1 align="center">Olá 👋</h1>
-
 <p align="center">
   <img src="gato.gif" alt="gato" />
 </p>
