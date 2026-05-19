@@ -12,12 +12,19 @@
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="MSS">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 </p>
 
 
