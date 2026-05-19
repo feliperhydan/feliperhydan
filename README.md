@@ -1,14 +1,14 @@
 <p align="center">
   <img src="gato.gif" alt="gato" />
 </p>
-<h2 align="center">Contato</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 <a href = "mailto:frhydan@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-rhydan-96b513318/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -27,4 +27,4 @@
 </p>
 
 
-<p align="center">Obrigado por visitar meu perfil! 😊</p>
+<p align="center">Thanks for checking out my profile! 😊</p>
