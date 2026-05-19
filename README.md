@@ -1,7 +1,7 @@
 <p align="center">
   <img src="gato.gif" alt="gato" />
 </p>
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">Contato</h2>
 
 <div align="center">
 <a href="https://instagram.com/feliperhydan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/felipe-rhydan-96b513318/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
