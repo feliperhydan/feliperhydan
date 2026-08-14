@@ -25,6 +25,3 @@
   <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 </p>
-
-
-<p align="center">Thanks for checking out my profile! 😊</p>
